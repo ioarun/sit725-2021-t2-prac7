@@ -1,3 +1,9 @@
+
+Hi there! In this prac, I create, add and and get data from a monogdb database. 
+-----------------------------------------------------------------
+
+**ORIGINAL README :**
+
 Hello by Alessio:
 
 This is my boilerplate for creating simple new applications. 
