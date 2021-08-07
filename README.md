@@ -1,5 +1,8 @@
 
 Hi there! In this prac, I create, add and and get data from a monogdb database. 
+
+**Important :** Make sure that `MonogoDB Connected` is displayed on the terminal after you start the nodejs server by using this command - `npm start`. 
+
 -----------------------------------------------------------------
 
 **ORIGINAL README :**
