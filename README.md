@@ -1,61 +1,7 @@
 
-Hi there! In this prac, I use MVC paradigm to organize my code in a more manageable fashion. 
+Hi there! In this prac, I use mocha and chai to add tests in my project.
 
 Here's how the project structure looks like now:
-```
-.
-├── controllers
-│   ├── index.js
-│   ├── projectsController.js
-│   └── timeSeriesDataController.js
-├── dbConnect.js
-├── docs
-│   └── portfolio-wireframe.pdf
-├── images
-│   └── anomaly-detection-page.png
-├── LICENSE
-├── manifest.yml
-├── npm-debug.log
-├── package.json
-├── package-lock.json
-├── Procfile
-├── public
-│   ├── anomaly-detection.html
-│   ├── assets
-│   │   ├── ale2.jpg
-│   │   ├── ale.jpg
-│   │   ├── arun.jpg
-│   │   ├── avatar-light-blue.png
-│   │   ├── avatar.png
-│   │   ├── github.png
-│   │   ├── git-logo.svg
-│   │   ├── gmail.png
-│   │   ├── linkedin.png
-│   │   ├── strategy.png
-│   │   └── twitter.png
-│   ├── env.js
-│   ├── index.html
-│   ├── projects.html
-│   └── styles.css
-├── README.md
-├── routes
-│   ├── index.js
-│   ├── projects.js
-│   └── time-series-data.js
-├── server.js
-├── services
-│   ├── index.js
-│   ├── projectsService.js
-│   └── timeSeriesDataService.js
-├── test
-└── tree.txt
-```
-**Important :** Make sure that `MonogoDB Connected` is displayed on the terminal after you start the nodejs server by using this command - `npm start`. 
-
-Here's a preview of anomaly-detection.html which plots the time-series data points fetched from the databases.
-
-![Image](images/anomaly-detection-page.png)
-
 -----------------------------------------------------------------
 
 **ORIGINAL README :**
