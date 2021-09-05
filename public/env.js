@@ -70,6 +70,11 @@ const getTimeSeriesData = () => {
   )
 }
 
+let socket = io();
+
+socket.on('number', (msg)=>{
+  console.log(msg);
+})
 
 
 $(document).ready(function(){

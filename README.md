@@ -1,5 +1,5 @@
 
-Hi there! In this prac, I use mocha and chai to add tests in my project.
+Hi there! In this prac, I used socket.io to create and use sockets to broadcast messges in real-time.
 
 Here's how the project structure looks like now:
 -----------------------------------------------------------------
